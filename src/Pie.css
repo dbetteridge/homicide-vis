@@ -1,0 +1,8 @@
+.pie {
+    float: left;
+}
+
+.pie-path {
+    fill: black;
+    stroke: black;
+}
